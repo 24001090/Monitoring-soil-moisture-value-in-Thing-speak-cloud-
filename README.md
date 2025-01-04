@@ -1,7 +1,7 @@
 ## NAME-Pooja Priya.B
 ## REG NO-24001090
-# MONITORING-SOIL-MOISTURE-VALUE-IN-THING-SPEAK-CLOUD
-# Uploading soil moisture sensor data in Thing Speak cloud
+# EXP-5 MONITORING SOIL MOISTURE VALUE IN THING SPEAK CLOUD
+
 
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
